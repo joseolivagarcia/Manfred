@@ -1,0 +1,330 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "José ",
+      "surnames": "Oliva García ",
+      "title": "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma ",
+      "description": "Entusiasta de la tecnología desde que los Reyes Magos se dignaron a regalarme un zx spectrum 48k.\nPor los caminos que la vida te va llevando me formé como fotógrafo y vengo realizando ésta profesión (pasionalmente) desde 1997.\nTodo éste tiempo he seguido trasteando con la informática de forma autodidacta... Que si el 3dStudio Max, que si Maya, que si programas más acordes a mi profesión como adobe premiere, adobe Photoshop o adobe lightroom...\nEn un momento dado retomé la programación (hace mucho,mucho tiempo fue Basic) y empecé a desarrollar videojuegos con Unity y c#, después apareció java en mi vida y decidí ir un paso más allá para estudiar de forma oficial el grado superior de DAM. Compaginando vida familiar,trabajo y estudios pude terminarlo en los dos años oficiales en 2022. Ya antes,pero sobre todo durante y después del ciclo he estado trasteando con el desarrollo mobile en Android y finalmente enfocado a Kotlin. Actualmente sigo desarrollando o aprendiendo a desarrollar Apps de la mejor forma posible.\nEntusiasmado en poder dedicarle cada vez más tiempo y convertirlo en profesión...\nSoy una persona bastante persistente y con gran capacidad de aprendizaje. Quizá menos de memorizar, pero sí con buena capacidad para encontrar soluciones a los problemas que siempre surgen mientras programo. Consigo fácilmente abstraerme del mundo hasta dar con una solución a un problema determinado. A ésto seguramente me ha ayudado el viajar sólo por países como Australia, Perú o EEUU simplemente con una mochila y ganas de aprender de las situaciones en las que la vida te pone ...\nPasión por descubrir nuevas cosas cada día ..\n",
+      "avatar": {
+        "alt": "perfil.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/974fe7a8-6441-4cbd-b73d-b8d55fc430c8_perfil.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Boadilla del Monte",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jose-oliva-garcia-68620955"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Ex Árbitro de fútbol ",
+        "fact": "Allá por 1997 estuve varios años formando parte de la federación madrileña de árbitros de fútbol. Eso implica una disciplina,seriedad y sobre todo templanza para lidiar con situaciones estrambóticas..."
+      },
+      {
+        "topic": "Viajes ",
+        "fact": "Apasionado de los viajes sin organizar. A la aventura! Descubrir por descubrir,sin destinos prefijados .."
+      },
+      {
+        "topic": "Deporte ",
+        "fact": "Nunca he dejado de practicarlo, fútbol, baloncesto, footing,piscina... Cualquier cosa que me mantenga activo."
+      },
+      {
+        "topic": "Cine",
+        "fact": "Siempre que puedo intento ver cualquier cosa en pantalla grande, por supuesto con palomitas!"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Europa Press "
+        },
+        "roles": [
+          {
+            "name": "Fotógrafo ",
+            "startDate": "1999-06-01",
+            "challenges": [
+              {
+                "description": "Fotógrafo de prensa cubriendo todo tipo de eventos sociales, desde estrenos de cine, eventos deportivos, actos políticos y Casa Real entre otros para publicaciones nacionales e Internacionales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Europa Press (sistemas)"
+        },
+        "roles": [
+          {
+            "name": "Prácticas ",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Mantenimiento de webs internas de la empresa con vb.net y c#\nManejo de BBDD con SQL "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "BrAPPsas",
+          "description": "Práctica sobre una tienda de hamburguesas.\nPracticando Room, viewModel, ViewPager2,MVVM...",
+          "URL": "https://github.com/joseolivagarcia/hAPPburguer",
+          "image": {
+            "alt": "Screenshot_2022-12-23-14-15-14-287_joseoliva.com.happburguer.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/70693668-db4b-40ef-af15-6a21a5b243be_screenshot_2022-12-2.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "MVVM",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Camper4fun",
+          "description": "Proyecto fin de ciclo.\nAplicación Android para amantes del turismo en autocaravana o Camper. \nUn lugar donde compartir precisamente esos lugares donde pernoctar y pasar nuestras vacaciones descubriendo sitios apasionantes ...\nPublicada en la Google Play Store\nhttps://play.google.com/store/apps/details?id=joseoliva.com.proyectodam\n",
+          "URL": "https://play.google.com/store/apps/details?id=joseoliva.com.proyectodam",
+          "image": {
+            "alt": "Screenshot_2022-12-23-14-08-39-824_joseoliva.com.proyectodam.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/85833fc3-0ec6-4330-a8fd-c2a37b13fcfe_screenshot_2022-12-2.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-02-01",
+            "competences": [
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Android SDK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Superior Desarrollo de Aplicaciones Multiplataforma",
+        "startDate": "2020-02-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "Linkia FP - Stucom",
+          "description": "Titulación oficial del Ministerio de Educación y Ciencia en desarrollo de aplicaciones multiplataforma (DAM)"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Eclipse",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Linux",
+            "type": "technology"
+          },
+          {
+            "name": "Netbeans",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Windows",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jose-oliva-garcia-68620955"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Android SDK",
+          "type": "technology"
+        },
+        {
+          "name": "Android Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Apple iOS",
+          "type": "technology"
+        },
+        {
+          "name": "Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Full-stack Developer",
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Android Studio",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      },
+      {
+        "name": "Firebase",
+        "type": "technology"
+      }
+    ]
+  }
+}
