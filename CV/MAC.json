@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Boadilla del Monte",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Boadilla del Monte"
       }
     },
     "relevantLinks": [
@@ -89,8 +88,8 @@
           "description": "Práctica sobre una tienda de hamburguesas.\nPracticando Room, viewModel, ViewPager2,MVVM...",
           "URL": "https://github.com/joseolivagarcia/hAPPburguer",
           "image": {
-            "alt": "Screenshot_2022-12-23-14-15-14-287_joseoliva.com.happburguer.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/70693668-db4b-40ef-af15-6a21a5b243be_screenshot_2022-12-2.jpg"
+            "alt": "camper4fun.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/35c6c32f-f18f-49db-8f9c-8552935c2b71_camper4fun.png"
           }
         },
         "type": "openSource",
@@ -160,8 +159,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -318,31 +316,6 @@
         "Full-stack Developer",
         "Mobile Developer"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "Android Studio",
-        "type": "technology"
-      },
-      {
-        "name": "SQL",
-        "type": "technology"
-      },
-      {
-        "name": "Kotlin",
-        "type": "technology"
-      },
-      {
-        "name": "JAVA",
-        "type": "technology"
-      },
-      {
-        "name": "Firebase",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
