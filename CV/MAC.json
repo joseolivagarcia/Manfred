@@ -167,13 +167,19 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Android SDK",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
           "type": "technology"
         }
       },
@@ -185,13 +191,7 @@
       },
       {
         "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android Studio",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -204,6 +204,18 @@
       {
         "skill": {
           "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android SDK",
           "type": "technology"
         }
       }
@@ -310,11 +322,11 @@
         "type": "technology"
       },
       {
-        "name": "SQL",
+        "name": "Android Studio",
         "type": "technology"
       },
       {
-        "name": "Android Studio",
+        "name": "SQL",
         "type": "technology"
       },
       {
