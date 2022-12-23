@@ -167,7 +167,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
+          "name": "C#",
           "type": "technology"
         }
       },
@@ -179,19 +179,19 @@
       },
       {
         "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "MVVM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android SDK",
           "type": "technology"
         }
       },
@@ -203,19 +203,25 @@
       },
       {
         "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Firebase",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android SDK",
+          "name": "Git",
           "type": "technology"
         }
       }
@@ -318,10 +324,6 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "JAVA",
-        "type": "technology"
-      },
-      {
         "name": "Android Studio",
         "type": "technology"
       },
@@ -331,6 +333,10 @@
       },
       {
         "name": "Kotlin",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
         "type": "technology"
       },
       {
