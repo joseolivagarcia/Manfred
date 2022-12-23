@@ -120,6 +120,34 @@
       },
       {
         "details": {
+          "name": "PhotoGalleryPro",
+          "description": "Práctica para desarrollo de una app book fotográfico. Harto de tener todas las fotos en la galería de una manera desordenada? Selecciona tus mejores fotos y ordénalas hasta en cuatro categorías personalizables.\nPracticando con Room, ViewModel, ViePager2, OnBoarding, SplashScreen, entre otras tecnologías.",
+          "URL": "https://github.com/joseolivagarcia/PhotoGalleryPro",
+          "image": {
+            "alt": "photogaleryapp copia.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/fe5944e5-a3e6-4588-a6d0-043bbd894c96_photogaleryapp-copia.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Camper4fun",
           "description": "Proyecto fin de ciclo.\nAplicación Android para amantes del turismo en autocaravana o Camper. \nUn lugar donde compartir precisamente esos lugares donde pernoctar y pasar nuestras vacaciones descubriendo sitios apasionantes ...\nPublicada en la Google Play Store\nhttps://play.google.com/store/apps/details?id=joseoliva.com.proyectodam\n",
           "URL": "https://play.google.com/store/apps/details?id=joseoliva.com.proyectodam",
