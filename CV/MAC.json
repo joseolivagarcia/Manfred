@@ -84,6 +84,34 @@
     "projects": [
       {
         "details": {
+          "name": "CorteInDevs",
+          "description": "Simulación de tienda virtual con enlace a productos reales (como si fueran productos de afiliados).",
+          "URL": "https://github.com/joseolivagarcia/CorteinDEVS",
+          "image": {
+            "alt": "tienda1.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/3cf3ec74-24fe-4953-9d76-b0aa32175549_tienda1.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-12-01",
+            "competences": [
+              {
+                "name": "Android Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "BrAPPsas",
           "description": "Práctica sobre una tienda de hamburguesas.\nPracticando Room, viewModel, ViewPager2,MVVM...",
           "URL": "https://github.com/joseolivagarcia/hAPPburguer",
