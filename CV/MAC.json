@@ -88,8 +88,8 @@
           "description": "Práctica sobre una tienda de hamburguesas.\nPracticando Room, viewModel, ViewPager2,MVVM...",
           "URL": "https://github.com/joseolivagarcia/hAPPburguer",
           "image": {
-            "alt": "camper4fun.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/35c6c32f-f18f-49db-8f9c-8552935c2b71_camper4fun.png"
+            "alt": "burguers.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/23/bbad2777-2bd1-4a39-b1de-aff70d81a929_burguers.png"
           }
         },
         "type": "openSource",
